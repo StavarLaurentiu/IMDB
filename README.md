@@ -2,7 +2,7 @@ This IMDb-inspired application offers both a Graphical User Interface (GUI) and 
 It provides functionalities to manage movies, series, actors, and user accounts. The application has been developed using Java. Additionally,
 it utilizes Swing and AWT for the GUI.
 
-***Features***
+   ****Features****
 
 **GUI Features**
 
