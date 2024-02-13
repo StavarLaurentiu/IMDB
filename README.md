@@ -7,12 +7,12 @@ it utilizes Swing and AWT for the GUI.
 **GUI Features**
 
   *Authentication and User Management*
-Login Screen: Users can log in with their credentials (email/password).
+  Login Screen: Users can log in with their credentials (email/password).
 User Type Access Control: Different user types (Regular, Contributor, Admin) have varying access levels to functionalities.
 Add/Delete Users: Only admins can add/delete users to/from the system.
 
   *User Interface*
-Home Screen with Recommendations: Displays personalized recommendations for users based on their preferences.
+  Home Screen with Recommendations: Displays personalized recommendations for users based on their preferences.
 Search field: Any user can use the search bar in order to find more information about  any production/actor in the system.
 Menu Interface: Provides easy navigation to various functionalities and sections of the application.
 
